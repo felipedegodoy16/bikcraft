@@ -37,6 +37,7 @@
 @media (width <= 800px) {
     .parceiros {
         margin-bottom: 60px;
+        padding-bottom: 30px;
     }
 
     .parceiros li {
